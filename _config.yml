@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pete Kohler-Project Notes and Musings"
-title_separator          : "-"
+title                    : "Pete Kohler"
+title_separator          : "|"
 name                     : "Pete Kohler"
 description              : "My Blog."
 url                      : "https://kohlerpg.github.io"
