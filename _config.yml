@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Pete Kohler"
   avatar           : "/assets/10157504.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Systems Engineer, Amateur photogtapher and vinyl junkie who loves all things tech. "
+  location         : "Las Vegas, NV"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
