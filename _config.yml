@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :kohlerpg
+  username               :"kohlerpg"
 facebook:
   username               :
   app_id                 :
@@ -114,11 +114,11 @@ author:
   flickr           : "kohlerpg"
   facebook         :
   foursquare       :
-  github           :
+  github           : "kohlerpg"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "kohlerpg"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -126,7 +126,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "kohlerpg"
   vine             :
   weibo            :
   xing             :
