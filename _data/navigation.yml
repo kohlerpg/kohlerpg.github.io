@@ -1,5 +1,5 @@
 # main links
-#main:
+main:
 # - title: "Quick-Start Guide"
 #    url: /quick-start-guide/
 # - title: "About"
@@ -8,5 +8,5 @@
 #   url: /year-archive/
 # - title: "Sample Collections"
 #   url: /collection-archive/
- - title: "Photos"
+- title: "Photos"
    url: http://pkohler.smugmug.com
