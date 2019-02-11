@@ -1,12 +1,6 @@
 # main links
 main:
-#  - title: "Quick-Start Guide"
-#    url: /quick-start-guide/
   - title: "About"
-    url: "about/about.md"
-# - title: "Sample Posts"
-#   url: /year-archive/
-# - title: "Sample Collections"
-#   url: /collection-archive/
+    url: /about/
   - title: "Photos"
     url: http://pkohler.smugmug.com
