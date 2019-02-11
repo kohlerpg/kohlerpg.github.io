@@ -5,6 +5,12 @@ permalink: /_pages/
 author_profile: true
 published: true
 ---
-## About Me
+---
+title: "About Me"
+permalink: /
+excerpt: "Pete Kohler, Information Technologies professionl."
+layout: single
+author_profile: true
+sitemap: true
+---
 
-Coming soon....
