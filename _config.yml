@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                    : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -20,7 +20,7 @@ title                    : "Pete Kohler | A little of this and a lot of that."
 title_separator          : "|"
 name                     : "Pete Kohler"
 description              : "My first attemot at a jekyll style blog."
-url                      : "https://kohlerpg.github.io"
+url                      : "https://kohlerpg.github.io/"
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kohlerpg/kohlerpg.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -137,7 +137,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -169,7 +168,6 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
 
 # Conversion
 markdown: kramdown
@@ -274,7 +272,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: "/_pages/"
       type: pages
     values:
       layout: single
