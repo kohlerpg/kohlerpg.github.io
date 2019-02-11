@@ -7,10 +7,9 @@ published: true
 ---
 ---
 title: "About Me"
-permalink: /
-excerpt: "Pete Kohler, Information Technologies professionl."
+permalink: /about/
+excerpt: "Pete Kohler, Information Technologies professional."
 layout: single
 author_profile: true
 sitemap: true
 ---
-
