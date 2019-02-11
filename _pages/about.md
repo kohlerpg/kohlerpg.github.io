@@ -1,3 +1,8 @@
-## About my page
+---
+layout: single
+title: "About"
+permalink: /about/
+author_profile: true
+---
 
-This my about page.  
+Coming soon...
