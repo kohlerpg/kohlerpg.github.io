@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Pete Kohler"
 title_separator          : "|"
-subtitle				 : "Minimal Site"
+subtitle				 : "A Minimal Site"
 name                     : "Pete Kohler"
 description              : "My first attempt at a jekyll style blog."
 url                      : "https://kohlerpg.github.io/"
