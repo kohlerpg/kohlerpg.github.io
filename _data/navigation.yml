@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Music"
-    url: myMusic
+    url: music
   - title: "About"
     url: about
   - title: "Photos"
