@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Music"
-    url: mymusic
   - title: "Photos"
     url: http://pkohler.smugmug.com
   - title: "About"
