@@ -205,6 +205,7 @@ timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_databas
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
+  - jekyll-include-cache
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -267,6 +268,6 @@ defaults:
       classes: wide
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: false
       related: true
