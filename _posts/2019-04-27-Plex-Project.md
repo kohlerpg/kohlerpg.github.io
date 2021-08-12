@@ -1,6 +1,12 @@
 ---
 published: true
 ---
+---
+layout: single
+title:  "Plex Project"
+date:   2019-04-27
+---
+
 ## Plex Project
 
 For some time I have wanted to build a media server.  After reading many of the articles written about such projects I thought it was time to try it out.  After reading all the advice and opinions on media server software I decided to go with Plex.  
