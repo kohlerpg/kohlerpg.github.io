@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pete Kohler"
+title                    : ""
 subtitle				 : "A Minimal Site"
 name                     : "Pete Kohler - Minimal"
 description              : "My first attempt at a jekyll style blog."
