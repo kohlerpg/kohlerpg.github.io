@@ -1,11 +1,7 @@
 ---
 published: true
 ---
----
-layout: single
-title:  "Plex Project"
-date:   2019-04-27
----
+
 
 ## Plex Project
 
