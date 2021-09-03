@@ -1,8 +1,10 @@
 ---
-layout: splash
+layout: single
 permalink: /
 hidden: true
 published: true
+author_profile: true
+subtitle: My Home Page
 ---
 
 ## A New Post
