@@ -2,6 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
+published: true
 ---
 
 ## A New Post
