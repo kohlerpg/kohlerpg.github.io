@@ -1,7 +1,8 @@
 ---
 layout: splash
-permalink: /
+permalink: /home/
 hidden: true
+published: true
 ---
 
 
