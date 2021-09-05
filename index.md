@@ -7,6 +7,4 @@ author_profile: true
 subtitle: My Home Page
 ---
 
-## My Home Page
-
-
+## My Home 
