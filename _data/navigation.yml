@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: http://kohlerpg.github.io
-  - title: "Posts"
+  - title: "Blog"
   	url: blog
   - title: "Music"
     url: music
