@@ -3,8 +3,6 @@ permalink: /music
 published: true
 layout: single
 author_profile: true
-title: Music I'm listening to..
+title: Music
 subtitle: Music found in various places
 ---
-
-
