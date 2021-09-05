@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Posts
 layout: archive
 permalink: /blogs/
 author_profile: true
@@ -7,8 +7,7 @@ comments: true
 published: true
 ---
 
-##  My Blog Page
-Here is were all the posts will go.
+My posts by year.  Mainly dealing with side projects and photography.
 <ul>
   {% for post in site.posts %}
     {% unless post.next %}
