@@ -8,3 +8,6 @@ published: true
 ---
 
 ##  My Blog Page
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
