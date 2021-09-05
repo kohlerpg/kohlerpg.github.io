@@ -1,6 +1,6 @@
 ---
 title: Blogs
-layout: single
+layout: archive
 permalink: /blog/
 author_profile: true
 comments: true
