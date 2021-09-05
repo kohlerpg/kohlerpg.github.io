@@ -1,7 +1,7 @@
 ---
 title: Blogs
-layout: home
-permalink: /blog/
+layout: posts
+permalink: /posts/
 author_profile: true
 comments: true
 published: true
