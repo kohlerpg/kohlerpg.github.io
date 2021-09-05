@@ -9,4 +9,4 @@ main:
   - title: "Photos"
     url: http://pkohler.smugmug.com
   - title: "About"
-    url: /about/
+    url: about
