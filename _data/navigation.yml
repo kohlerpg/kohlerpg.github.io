@@ -1,7 +1,9 @@
 # main links
 main:
   - title: "Home"
-    url: http://kohlerp.github.io
+    url: http://kohlerpg.github.io
+  - title: "Posts"
+    url: blog
   - title: "Music"
     url: music
   - title: "Photos"
