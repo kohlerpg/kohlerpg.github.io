@@ -9,5 +9,5 @@ published: true
 
 ##  My Blog Page
 {% for post in paginator.posts %}
-  {% include posts-tags.html %}
+  {% include posts-tag.html %}
 {% endfor %}
