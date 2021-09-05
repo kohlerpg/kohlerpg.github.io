@@ -3,10 +3,10 @@ main:
   - title: "Home"
     url: index
   - title: "Posts"
-    url: /blog/
+    url: blog
   - title: "Music"
-    url: /music/
+    url: music
   - title: "Photos"
     url: http://pkohler.smugmug.com
   - title: "About"
-    url: /about/
+    url: about/
