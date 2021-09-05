@@ -1,11 +1,11 @@
 ---
-title:  "Blogs"
+title: Blogs
 layout: archive
 permalink: /Blogs/
 author_profile: true
 comments: true
+published: true
 ---
 
-## A New Post
+##  My Blog Page
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
