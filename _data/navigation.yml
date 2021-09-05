@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: index.html
   - title: "Posts"
-    url: blog
+    url: /blogs/
   - title: "Music"
     url: music
   - title: "Photos"
