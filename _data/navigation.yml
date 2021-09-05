@@ -3,7 +3,7 @@ main:
   - title: "Home"
   	url: home
   - title: "Blog"
-  	url: blog
+    url: blog
   - title: "Music"
     url: music
   - title: "Photos"
