@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: http://kohlerpg.github.io
   - title: "Posts"
-  	url: posts
+  	url: blogs
   - title: "Music"
     url: music
   - title: "Photos"
