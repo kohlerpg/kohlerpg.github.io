@@ -1,5 +1,5 @@
 ---
-title: Blogs
+title: Blog
 layout: archive
 permalink: /blogs/
 author_profile: true
@@ -9,4 +9,3 @@ published: true
 
 ##  My Blog Page
 Here is were all the posts will go.
-
