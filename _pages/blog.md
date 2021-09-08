@@ -3,11 +3,11 @@ title: Posts
 layout: archive
 permalink: /blogs/
 author_profile: true
-comments: true
+comments: false
 published: true
 ---
 
-My posts by year.  Mainly dealing with side projects and photography.
+My posts by year.  Mainly dealing with side projects and random items.
 <ul>
   {% for post in site.posts %}
     {% unless post.next %}
