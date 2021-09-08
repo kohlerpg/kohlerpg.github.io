@@ -1,10 +1,8 @@
 ---
+layout: archive
 permalink: /music/
 published: true
-layout: archive
 author_profile: true
-title: Music
-subtitle: Music found in various places
 ---
 
 <ul>
