@@ -5,7 +5,7 @@ main:
   - title: "Posts"
     url: blogs
   - title: "Music"
-    url: music
+    url: /music/
   - title: "Photos"
     url: http://pkohler.smugmug.com
   - title: "About"
