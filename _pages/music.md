@@ -1,7 +1,7 @@
 ---
 permalink: /music/
 published: true
-layout: Archive
+layout: archive
 author_profile: true
 title: Music
 subtitle: Music found in various places
