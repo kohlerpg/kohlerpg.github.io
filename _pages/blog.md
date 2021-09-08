@@ -20,6 +20,6 @@ My posts by year.  Mainly dealing with side projects and random items.
       {% endif %}
 
     {% endunless %}
-   {% include archive-single.html %}
+   
   {% endfor %}
 </ul>
