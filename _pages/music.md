@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-{% for post in categories.music %}
+{% for post in site.categories.music %}
     {% unless post.next %}
       <font color="#778899"><h2>{{ post.date | date: '%Y %b' }}</h2></font>
     {% else %}
@@ -19,4 +19,3 @@ author_profile: true
     {% endunless %}
    {% include archive-single.html %}
   {% endfor %}
-
