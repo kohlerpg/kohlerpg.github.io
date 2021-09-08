@@ -7,8 +7,8 @@ author_profile: true
 
 My Music related posts..
 <ul> 
-  {% for post in site.categories music %}
-    {% unless post.next %}
+  {% for post in site.categories.music %}
+    {% if post.url %}
       <font color="#778899"><h2>{{ post.date | date: '%Y %b' }}</h2></font>
     {% else %}
       {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
@@ -17,7 +17,6 @@ My Music related posts..
         <font color="#778899"><h2>{{ post.date | date: '%Y %b' }}</h2></font>
       {% endif %}
 
-    {% endunless %}
-   {% include archive-single.html %}
+    {% endif %}
   {% endfor %}
 </ul>
