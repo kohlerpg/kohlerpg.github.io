@@ -9,7 +9,7 @@ author_profile: true
   {% for post in site.categories.music %}
     {% if post.url %}
         {{post.date}}
-        <li><a href="{{ post.url }}">{{ post.title }}</a>{{post.excerpt}</li>
+        <li><a href="{{ post.url }}">{{ post.title }}</a>{{post.excerpt}}</li>
     {% endif %}
   {% endfor %}
 </ul>
