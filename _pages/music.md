@@ -9,6 +9,6 @@ category: music
 My Music related posts..
 <ul>
 {% for category in site.categories.music %}
-  <a name="{{ category | first }}">{{category | first }}</a>
+  <a name="{{ post.url }}">{{post.title }}</a><br>
 {% endfor %}
 </ul>
