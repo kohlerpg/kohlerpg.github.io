@@ -18,6 +18,5 @@ My Music related posts..
       {% endif %}
 
     {% endunless %}
-   {% include archive-single.html %}
   {% endfor %}
 </ul>
