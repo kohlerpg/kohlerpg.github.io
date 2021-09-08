@@ -3,6 +3,7 @@ layout: archive
 permalink: /music/
 published: true
 author_profile: true
+categories: music
 ---
 
 My Music related posts..
