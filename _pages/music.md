@@ -8,7 +8,7 @@ categories: music
 
 My Music related posts..
 <ul>
-{% for category in site.categories %}
+{% for category in site.categories['music'] %}
   {{ post.title }}
 {% endfor %}
 </ul>
