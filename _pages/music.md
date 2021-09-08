@@ -16,4 +16,3 @@ subtitle: Music found in various places
     {% endif %}
   {% endfor %}
 </ul>
-
