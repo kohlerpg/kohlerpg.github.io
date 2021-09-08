@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 My Music related posts..
-<ul>
-  <ul>
+<ul> 
   {% for post in site.categories music %}
     {% unless post.next %}
       <font color="#778899"><h2>{{ post.date | date: '%Y %b' }}</h2></font>
@@ -21,5 +20,4 @@ My Music related posts..
     {% endunless %}
    {% include archive-single.html %}
   {% endfor %}
-</ul>
 </ul>
