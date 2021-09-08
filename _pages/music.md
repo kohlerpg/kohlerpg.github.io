@@ -1,7 +1,7 @@
 ---
-permalink: /music
+permalink: /music/
 published: true
-layout: single
+layout: Archive
 author_profile: true
 title: Music
 subtitle: Music found in various places
