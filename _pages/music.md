@@ -9,6 +9,6 @@ category: music
 My Music related posts..
 <ul>
 {% for category in site.categories.music %}
-  <a href="{{ post.url }}" rel="permalink">{{ title }}</a>
+  <a href="{{ post.url }}" rel="permalink">{{ post.title }}</a>
 {% endfor %}
 </ul>
