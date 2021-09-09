@@ -8,10 +8,8 @@ header:
   overlay_color: '#000'
   overlay_filter: '0.5'
   overlay_image: /assets/img)4282-2.jpg
-  actions:
-    - label: Download
-      url: '#test-link'
-excerpt: My home splash page
+excerpt: 'You don''t take photographs, you make them. - Ansel Adams'
+title: Making Photos
 ---
 
 
