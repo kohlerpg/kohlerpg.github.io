@@ -11,10 +11,10 @@ My Music related posts..
   {% for post in site.categories['music'] %}
     <article class="post">
       <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+          <a href="{{ post.url | post.relative_url }}" rel="permalink">{{ post.title }}</a></h3>
           <br>
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-      </h3>
+      
       
         <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
   
