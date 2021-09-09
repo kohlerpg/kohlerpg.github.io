@@ -22,6 +22,6 @@ My posts by year.  Mainly dealing with side projects and random items.
     {% endunless %}
    {% unless post.categories contains 'music' %}
       {% include archive-single.html %}
-   {% endunless %
+   {% endunless %}
   {% endfor %}
 </ul>
