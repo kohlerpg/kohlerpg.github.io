@@ -10,12 +10,11 @@ My Music related posts..
 <div class="posts">
   {% for post in site.categories['music'] %}
     <article class="post">
-      <h1>
+      <h3>
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      </h1>
-      <div>
-        <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-      </div>
+          <br>
+          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+      </h3>
       <div class="entry">
         {{ post.excerpt }}
       </div>
