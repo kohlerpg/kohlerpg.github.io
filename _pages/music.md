@@ -7,7 +7,6 @@ categories: music
 ---
 
 My Music related posts..
-
   {% for post in site.categories['music'] %}
     {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
