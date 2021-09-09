@@ -15,9 +15,9 @@ My Music related posts..
           <br>
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
       </h3>
-      <div class="entry">
+      
         <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>
-      </div>
+  
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
           Read More
       </a>
