@@ -7,12 +7,12 @@ categories: music
 ---
 
 My Music related posts..
-  {% for post in site.categories['music'] %}
+{% for post in site.categories['music'] %}
     {% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
+  		{% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+	{% else %}
+  		{% assign teaser = site.teaser %}
+	{% endif %}
 
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
@@ -46,5 +46,4 @@ My Music related posts..
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
-  {% endfor %}
-
+{% endfor %}
