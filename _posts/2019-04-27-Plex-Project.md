@@ -1,6 +1,10 @@
 ---
 published: true
 categories: misc
+tags:
+  - Plex
+  - Server
+  - NAS
 ---
 
 
