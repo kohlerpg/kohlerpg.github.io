@@ -4,4 +4,4 @@ categories: misc
 ---
 ## Sites Initial Post
 
-First post for this site.  Configuring the Minimal Mistakes theme.
+This is my initial post.  Configuring Minimal Mistakes blog site.
