@@ -17,4 +17,4 @@ gallery2:
 ---
 ## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
