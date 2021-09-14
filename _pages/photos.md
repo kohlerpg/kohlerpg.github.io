@@ -6,7 +6,7 @@ author_profile: true
 published: true
 gallery2:
   - url: 'https://www.flickr.com/gp/kohlerpg/4SaebD'
-    image_path: 'https://www.flickr.com/gp/kohlerpg/4SaebD'
+    image_path: 'https://live.staticflickr.com/858/42782081795_510fa4f868_b.jpg'
     alt: Iguana Puerto Rico
   - url: 'https://flic.kr/p/8a738X'
     image_path: 'https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg'
