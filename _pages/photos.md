@@ -27,6 +27,6 @@ gallery:
 ---
 ## A New Post
 
-{% include gallery id="gallery" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="gallery" layout="full" caption="Some shots from my Flickr account." %}
 
 
