@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: Portfolio
+permalink: /photos/
 author_profile: true
+published: true
 ---
 ## A New Post
 
