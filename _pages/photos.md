@@ -19,7 +19,7 @@ gallery:
     image_path: 'https://live.staticflickr.com/858/42782081795_510fa4f868_b.jpg'
     alt: Iguana Puerto Rico
   - url: 'https://flic.kr/p/8a738X'
-    image_path: 'https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg'
+    image_path: 'https://live.staticflickr.com/1796/44014984072_05cda683de_b.jpg'
     alt: Made for open text placement
   - url: 'https://flic.kr/p/8a6VXP'
     image_path: 'https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg'
@@ -28,5 +28,6 @@ gallery:
 ## Photography 
 
 {% include gallery layout="half" caption="Some shots from my Flickr account." %}
+
 
 
