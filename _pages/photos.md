@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: post
 title: Making photos
 permalink: /photos/
 author_profile: true
