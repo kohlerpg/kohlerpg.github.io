@@ -19,8 +19,8 @@ gallery:
     image_path: 'https://live.staticflickr.com/858/42782081795_510fa4f868_b.jpg'
     alt: Iguana Puerto Rico
   - url: 'https://flic.kr/p/2a4siiJ'
-    image_path: 'https://live.staticflickr.com/1796/44014984072_05cda683de_b.jpg'
-    alt: Made for open text placement
+    image_path: 'https://live.staticflickr.com/1796/44014984072_05cda683de_s.jpg'
+    alt: Florida Heron
   - url: 'https://flic.kr/p/8a6VXP'
     image_path: 'https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg'
     alt: Fog in the trees
@@ -29,5 +29,5 @@ gallery:
 
 {% include gallery layout="half" caption="Some shots from my Flickr account." %}
 
-
+[url=https://flic.kr/p/2a4siiJ][img]https://live.staticflickr.com/1796/44014984072_05cda683de_s.jpg[/img][/url][url=https://flic.kr/p/2a4siiJ]IMG_9107[/url] by [url=https://www.flickr.com/photos/kohlerpg/]Pete Kohler[/url], on Flickr
 
