@@ -27,6 +27,6 @@ gallery:
 ---
 ## Photography 
 
-{% include gallery id="gallery" layout="full" caption="Some shots from my Flickr account." %}
+{% include gallery id="gallery" layout="half" caption="Some shots from my Flickr account." %}
 
 
