@@ -18,7 +18,7 @@ gallery:
   - url: 'https://www.flickr.com/gp/kohlerpg/4SaebD'
     image_path: 'https://live.staticflickr.com/858/42782081795_510fa4f868_b.jpg'
     alt: Iguana Puerto Rico
-  - url: 'https://flic.kr/p/8a738X'
+  - url: 'https://flic.kr/p/2a4siiJ'
     image_path: 'https://live.staticflickr.com/1796/44014984072_05cda683de_b.jpg'
     alt: Made for open text placement
   - url: 'https://flic.kr/p/8a6VXP'
