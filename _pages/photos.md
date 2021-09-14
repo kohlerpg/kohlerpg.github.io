@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Portfolio
+title: Making photos
 permalink: /photos/
 author_profile: true
 published: true
@@ -25,7 +25,7 @@ gallery:
     image_path: 'https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg'
     alt: Fog in the trees
 ---
-## A New Post
+## Photography 
 
 {% include gallery id="gallery" layout="full" caption="Some shots from my Flickr account." %}
 
