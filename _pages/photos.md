@@ -18,14 +18,13 @@ gallery:
   - url: 'https://www.flickr.com/gp/kohlerpg/SG0N8d]'
     image_path: 'https://live.staticflickr.com/1835/43157028655_5805e82858_q.jpg'
     alt: Florida Egret
-  - url: 'https://flic.kr/p/2a4siiJ'
-    image_path: 'https://live.staticflickr.com/1796/44014984072_05cda683de_q.jpg'
-    alt: Florida Heron
-  - url: 'https://flic.kr/p/8a6VXP'
-    image_path: 'https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg'
+  - url: 'https://www.flickr.com/gp/kohlerpg/4gQHN7'
+    image_path: 'https://live.staticflickr.com/1773/42254264750_7c7bfd1855_q.jpg'
+    alt: Sunset
+  - url: 'hhttps://www.flickr.com/gp/kohlerpg/E7ghZH'
+    image_path: 'https://live.staticflickr.com/8775/28213803523_8eddaeff97_q.jpg'
     alt: Fog in the trees
 ---
 ## Photography 
 
 {% include gallery layout="half" caption="Some shots from my Flickr account." %}
-
