@@ -29,5 +29,4 @@ gallery:
 
 {% include gallery layout="half" caption="Some shots from my Flickr account." %}
 
-[url=https://flic.kr/p/2a4siiJ][img]https://live.staticflickr.com/1796/44014984072_05cda683de_q.jpg[/img][/url][url=https://flic.kr/p/2a4siiJ]IMG_9107[/url] by [url=https://www.flickr.com/photos/kohlerpg/]Pete Kohler[/url], on Flickr
 
