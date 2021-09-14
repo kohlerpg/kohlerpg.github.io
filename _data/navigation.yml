@@ -7,6 +7,6 @@ main:
   - title: "Music"
     url: music
   - title: "Photos"
-    url: http://pkohler.smugmug.com
+    url: photos
   - title: "About"
     url: about
