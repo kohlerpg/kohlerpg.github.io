@@ -15,9 +15,9 @@ gallery2:
     image_path: 'https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg'
     alt: Fog in the trees
 gallery:
-  - url: 'https://flic.kr/p/2a4siiJ'
-    image_path: 'https://live.staticflickr.com/1796/44014984072_05cda683de_q.jpg'
-    alt: Iguana Puerto Rico
+  - url: 'https://www.flickr.com/gp/kohlerpg/SG0N8d]'
+    image_path: 'https://live.staticflickr.com/1835/43157028655_5805e82858_q.jpg'
+    alt: Florida Egret
   - url: 'https://flic.kr/p/2a4siiJ'
     image_path: 'https://live.staticflickr.com/1796/44014984072_05cda683de_q.jpg'
     alt: Florida Heron
@@ -28,5 +28,4 @@ gallery:
 ## Photography 
 
 {% include gallery layout="half" caption="Some shots from my Flickr account." %}
-
 
