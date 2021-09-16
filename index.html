@@ -11,4 +11,8 @@ excerpt: 'You don''t take a photograph, you make it.  - Ansel Adams'
 title: Making Photos
 classes: wide
 ---
-
+{%- for post in site.tags[include.taxonomy] -%}
+  {%- unless post.hidden -%}
+    {% include archive-single.html %}
+  {%- endunless -%}
+{%- endfor -%}
