@@ -1,13 +1,13 @@
 ---
 title: Posts
-layout: archive
+layout: tags
 permalink: /blogs/
 author_profile: true
 comments: false
 published: true
 ---
 
-My posts by year.  Mainly dealing with side projects, coding and everything else.
+My posts.  Mainly dealing with side projects, coding and everything else.
 
 {% for post in site.categories['misc'] %}
     {% if post.header.teaser %}
@@ -49,4 +49,3 @@ My posts by year.  Mainly dealing with side projects, coding and everything else
   </article>
 </div>
 {% endfor %}
-
