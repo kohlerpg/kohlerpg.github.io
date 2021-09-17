@@ -43,6 +43,11 @@ feature_row:
     alt: Surfing
     text: Oregon Coast
     excerpt: 'Family surfing at Indian beach, Oregon.'
+header:
+  overlay_color: '#000'
+  overlay_filter: '0.5'
+  overlay_image: /assets/img_0015.jpg
+  caption: Photo Credit -Pete Kohler (Nikkormat)
 ---
 Photography
 
