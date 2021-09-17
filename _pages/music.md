@@ -4,6 +4,11 @@ permalink: /music/
 published: true
 author_profile: true
 categories: music
+header:
+  overlay_color: '#000'
+  overlay_filter: '0.5'
+  overlay_image: /assets/IMG_2533_Original.jpg
+  caption: Photo Credit - Pete Kohler (Pixies)
 ---
 
 My Music related posts..
