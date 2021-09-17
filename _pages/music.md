@@ -7,7 +7,7 @@ categories: music
 header:
   overlay_color: '#000'
   overlay_filter: '0.5'
-  overlay_image: /assets/Adrian-Korte-Splash.jpg
+  overlay_image: /assets/adrian-korte-unsplash.jpg
   caption: 'Credit: Adrian Korte (unSplash)'
 ---
 
