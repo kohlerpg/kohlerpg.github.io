@@ -1,6 +1,6 @@
 ---
 title: Posts
-layout: tags
+layout: tag
 permalink: /blogs/
 author_profile: true
 comments: false
