@@ -44,6 +44,6 @@ feature_row:
     text: Oregon Coast
     excerpt: 'Family surfing at Indian beach, Oregon.'
 ---
-## Photography 
+Photography
 
 {% include feature_row %}
