@@ -7,7 +7,7 @@ categories: music
 header:
   overlay_color: '#000'
   overlay_filter: '0.5'
-  overlay_image: /assets/Adrian_Korte_Splahs.jpg
+  overlay_image: /assets/Adrian-Korte-Splash.jpg
   caption: >-
     <a
     href="https://unsplash.com/@adkorte?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Adrian
