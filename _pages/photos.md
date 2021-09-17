@@ -46,7 +46,7 @@ feature_row:
 header:
   overlay_color: '#000'
   overlay_filter: '0.5'
-  overlay_image: /assets/img_0015.jpg
+  overlay_image: /assets/IMG_0015.jpg
   caption: Photo Credit -Pete Kohler (Nikkormat)
 ---
 Photography
