@@ -31,8 +31,7 @@ gallery:
     text: Oregon Coast
     excerpt: 'Family surfing at Indian beach, Oregon.'
 feature_row:
-  - url: 'https://www.flickr.com/gp/kohlerpg/SG0N8d]'
-    image_path: 'https://live.staticflickr.com/1835/43157028655_5805e82858_q.jpg'
+  - image_path: 'https://live.staticflickr.com/1835/43157028655_5805e82858_q.jpg'
     alt: Florida Egret
     text: White Egret
     excerpt: 'One of the many Egrets that we saw on our trip to Lake Apopka, Florida.'
