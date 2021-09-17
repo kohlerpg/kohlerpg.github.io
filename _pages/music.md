@@ -9,6 +9,7 @@ header:
   overlay_color: '#000'
   overlay_filter: '0.5'
   caption: 'Credit: Adrian Korte (<a href="https://unsplash.com/@adkorte">unSplash</a>)'
+title: Music Matters
 ---
 
 My Music related posts..
