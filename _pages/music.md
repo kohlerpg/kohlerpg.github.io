@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/adrian-korte-unsplash.jpg
   overlay_color: '#000'
   overlay_filter: '0.5'
-  caption: 'Credit: Adrian Korte (unSplash)'
+  caption: 'Credit: Adrian Korte (<a href="https://unsplash.com/@adkorte">unSplash</a>)'
 ---
 
 My Music related posts..
