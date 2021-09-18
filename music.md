@@ -9,6 +9,7 @@ header:
   overlay_color: '#000'
   overlay_filter: '0.5'
   caption: 'Credit: Adrian Korte (unSplash)'
+excerpt: Music Expert
 ---
 
 My Music related posts..
