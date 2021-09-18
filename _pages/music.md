@@ -11,6 +11,8 @@ header:
   caption: 'Credit: Adrian Korte (<a href="https://unsplash.com/@adkorte">unSplash</a>)'
 title: Music Matters
 excerpt: My Music Header
+layour: single
+tagline: Music Expert
 ---
 
 My Music related posts..
