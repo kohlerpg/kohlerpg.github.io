@@ -41,4 +41,4 @@ header:
 ---
 Photography
 
-{% include gallery id="gallery"%}
+{% include gallery id="gallery" caption="Egret at Lake Apopka, Florida.  Sunset during airboat ride.  Family of surfers, Indian Beach, Oregon.%}
