@@ -10,9 +10,7 @@ header:
   overlay_filter: '0.5'
   caption: 'Credit: Adrian Korte (<a href="https://unsplash.com/@adkorte">unSplash</a>)'
 title: Music Matters
-excerpt: >-
-  Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short
-  ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop.
+excerpt: My Music Header
 ---
 
 My Music related posts..
