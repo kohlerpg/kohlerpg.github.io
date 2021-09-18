@@ -41,4 +41,4 @@ header:
 ---
 Photography
 
-{% include gallery id="gallery" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="gallery"%}
