@@ -10,9 +10,6 @@ header:
   overlay_image: /assets/adrian-korte-unsplash.jpg
   caption: 'Photo Credit - Adrian Korte [**Unsplash**](https://unsplash.com)'
 title: Music Matters
-excerpt: My Music Header
-layour: single
-tagline: Music Expert
 ---
 
 
