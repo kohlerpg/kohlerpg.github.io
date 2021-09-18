@@ -1,14 +1,14 @@
 ---
-layout: splash
+layout: single
 permalink: /music/
 published: true
 author_profile: true
 categories: music
 header:
-  overlay_image: /assets/adrian-korte-unsplash.jpg
   overlay_color: '#000'
   overlay_filter: '0.5'
-  caption: 'Credit: Adrian Korte (<a href="https://unsplash.com/@adkorte">unSplash</a>)'
+  overlay_image: /assets/adrian-korte-unsplash.jpg
+  caption: 'Photo Credit - Adrian Korte [**Unsplash**](https://unsplash.com)'
 title: Music Matters
 excerpt: My Music Header
 layour: single
