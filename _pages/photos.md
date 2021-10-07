@@ -39,7 +39,7 @@ header:
   overlay_image: /assets/IMG_0015.jpg
   caption: Photo Credit -Pete Kohler (Nikkormat)
 ---
-##Photography
+## Photography
 
 I don't get out as much as I like, I'm trying though.  Before my iPhone I would take my trusty Pentax K-1000 everywhere, then wait a week to see what shots I had.  One of the thing I love about photography is there is always more to learn.  From the equipment to the surroundings nothing is the same, always an adventure.      
 
