@@ -41,6 +41,6 @@ header:
 ---
 ## Photography
 
-I don't get out as much as I like, I'm trying though.  Before my iPhone I would take my trusty Pentax K-1000 everywhere, then wait a week to see what shots I had.  One of the thing I love about photography is there is always more to learn.  From the equipment to the surroundings nothing is the same, always an adventure.      
+What I love about photography is there is always more to learn.  From the equipment to the surroundings, nothing is ever the same. Always an adventure. Before my iPhone I would take my trusty Pentax K-1000 everywhere. Then wait a week to see what shots I had.  I don't get out as much as I like, but I'm trying.  
 
 {% include gallery id="gallery" caption="Egret at Lake Apopka, Florida.  Sunset during airboat ride.  Family of surfers, Indian Beach, Oregon." %}
