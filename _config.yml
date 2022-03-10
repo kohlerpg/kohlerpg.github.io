@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "kohlerpg.github.io"
+title                    : "It's all about light"
 title_separator          : "-"
-subtitle				         : "A Very Minimal Site"
+subtitle				         : "Minimal Site"
 name                     : "Pete Kohler - Minimal"
-description              : "A place to blog."
+description              : "A place to blog and learn markdown."
 url                      : "https://kohlerpg.github.io/"
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
