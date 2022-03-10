@@ -1,6 +1,6 @@
 ---
 published: true
-categories: photography
+categories: misc
 tags:
   - photography
   - wildlife
