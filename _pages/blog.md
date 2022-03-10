@@ -1,21 +1,15 @@
 ---
-layout: single
-permalink: /music/
-published: true
+title: Posts
+layout: tag
+permalink: /blogs/
 author_profile: true
-categories: music
-header:
-  overlay_color: '#000'
-  overlay_filter: '0.5'
-  overlay_image: /assets/adrian-korte-unsplash.jpg
-  caption: 'Photo Credit - Adrian Korte [**Unsplash**](https://unsplash.com)'
-title: Music Matters
-excerpts: 'Music, Music, Music'
-excerpt: 'Music, Music, Music'
+comments: false
+published: true
 ---
-My Music related posts..
 
-{% for post in site.categories['music'] %}
+My posts.  Mainly dealing with side projects, coding and everything else.
+
+{% for post in site.categories['misc'] %}
     {% if post.header.teaser %}
   		{% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 	{% else %}
@@ -55,4 +49,3 @@ My Music related posts..
   </article>
 </div>
 {% endfor %}
-

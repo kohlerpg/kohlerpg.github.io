@@ -1,8 +1,10 @@
 # main links
 main:
+  - title: "Posts"
+    url: blogs
   - title: "Music"
     url: music
   - title: "Photos"
-    url: http://pkohler.smugmug.com
+    url: photos
   - title: "About"
     url: about
