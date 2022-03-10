@@ -12,5 +12,5 @@ A suprise visit from a burrowing frog in Tucson.  I'm not sure where it was head
 
 <figure>
 <img src="assets/images/TucsonFrog.jpg" alt="frog wandering the park in Tucson">
-<figrecaption>Not sure where it was heading, but it was in a hurry.</figurecaption>
+<figurecaption>Not sure where it was heading, but it was in a hurry.</figurecaption>
 </figure>
