@@ -7,7 +7,7 @@ comments: false
 published: true
 ---
 
-My posts.  Mainly dealing with side projects, coding and whatever else I'm doing.
+ A little bit of everything posted here.  Photography and tech mostly, what I have learned and what I am hoping to learn.  
 
 {% for post in site.categories['misc'] %}
 
