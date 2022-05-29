@@ -1,6 +1,8 @@
 ---
 published: true
 categories: misc
+date: 2022-03-10
+layout: single
 tags:
   - photography
   - wildlife
