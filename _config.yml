@@ -267,7 +267,9 @@ defaults:
     values:
       layout: single
       author_profile: true
- #_posts
+      read_time: true
+      show_date: true
+ _posts
   - scope:
       path: ""
       type: posts
