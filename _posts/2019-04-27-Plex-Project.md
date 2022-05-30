@@ -1,10 +1,8 @@
 ---
-published: true
+title: Plex Media Server 
+excerpt: Media server project 
 categories: misc
-tags:
-  - Plex
-  - Server
-  - NAS
+tags: Plex Server Tech
 ---
 
 
