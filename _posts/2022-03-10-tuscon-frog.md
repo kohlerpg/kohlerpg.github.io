@@ -2,8 +2,7 @@
 published: true
 categories: misc
 date: 2022-03-10
-layout: single
-title: Tucson Wildlife
+title: Making Photos
 tags:
   - photography
   - wildlife
