@@ -1,8 +1,5 @@
 ---
-published: true
 categories: misc
-date: 2022-03-10
-title: Making Photos
 tags: photography wildlife tucson 
 ---
 ## Tucson frog
