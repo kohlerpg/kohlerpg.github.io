@@ -1,6 +1,6 @@
 ---
 categories: misc
-layout: splash
+layout: single
 excerpt: A suprise visit
 tags: photography wildlife tucson 
 ---
