@@ -15,7 +15,7 @@ classes: wide
 ---
 
 
-{% for post in site.categories['misc'] %}
+{% for post in site.categories.misc %}
 
   {% if post.header.teaser %}
     {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
