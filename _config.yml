@@ -23,7 +23,7 @@ name                     : "Pete Kohler - Minimal"
 description              : "A place to blog and learn markdown."
 url                      : "https://kohlerpg.github.io/"
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : _pages # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "kohlerpg/kohlerpg.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
