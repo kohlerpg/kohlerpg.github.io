@@ -10,7 +10,6 @@ header:
   overlay_image: /assets/adrian-korte-unsplash.jpg
   caption: 'Photo Credit - Adrian Korte [**Unsplash**](https://unsplash.com)'
 title: Music Matters
-excerpts: 'Music, Music, Music'
 excerpt: 'Music, Music, Music'
 ---
 My Music related posts..
