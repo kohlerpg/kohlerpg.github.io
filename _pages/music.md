@@ -1,5 +1,4 @@
 ---
-layout: single
 permalink: /music/
 published: true
 author_profile: true
