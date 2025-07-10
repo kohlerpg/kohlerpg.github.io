@@ -1,0 +1,12 @@
+---
+categories: misc
+layout: single
+excerpt: Coopers Hawk
+tags: photography wildlife tucson
+---
+## Coopers Hawk
+On a visit to Tucson, Arizona I was lucky enough to see this Coopers Hawk hanging out. It was  definetly protecting a nest, since it took several swipes at me.  The last one sent my hat flying off.
+
+![](/assets/images/IMG_4844.jpg){: .align-center .img-50}
+
+Shot was taken with my 135mm f/2 L lens.
