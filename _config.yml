@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "It's all about light"
+title                    : "My Minimal Site"
 title_separator          : "-"
-subtitle				         : "Minimal Site"
+subtitle				 : "Minimal Site"
 name                     : "Pete Kohler - Minimal"
 description              : "A place to blog and learn markdown."
 url                      : "https://kohlerpg.github.io/"
