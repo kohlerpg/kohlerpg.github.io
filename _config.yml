@@ -20,7 +20,7 @@ title                    : "My Minimal-ish Site"
 title_separator          : "-"
 subtitle				 : "Minimal Site"
 name                     : "Pete Kohler - Minimal"
-description              : "A place to blog and learn markdown."
+description              : "A place for posts and learn markdown."
 url                      : "https://kohlerpg.github.io/"
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :""
+  username               : #""
 facebook:
   username               :
   app_id                 :
