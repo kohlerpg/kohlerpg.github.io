@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Minimal Site"
+title                    : "My Minimal-ish Site"
 title_separator          : "-"
 subtitle				 : "Minimal Site"
 name                     : "Pete Kohler - Minimal"
@@ -79,7 +79,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :"kohlerpg"
+  username               :""
 facebook:
   username               :
   app_id                 :
@@ -127,7 +127,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "kohlerpg"
+  twitter          : # "kohlerpg"
   vine             :
   weibo            :
   xing             :
