@@ -1,7 +1,7 @@
 ---
 categories: misc
 layout: single
-excerpt: A suprise visit
+excerpt: A suprise visit from a burrowing frog.
 tags: photography wildlife tucson 
 ---
 ## Tucson frog

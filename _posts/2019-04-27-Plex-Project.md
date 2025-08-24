@@ -1,6 +1,6 @@
 ---
 title: Plex Media Server 
-excerpt: Media server project 
+excerpt: Media server project overview
 categories: misc
 tags: Plex Server Tech
 ---
