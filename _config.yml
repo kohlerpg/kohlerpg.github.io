@@ -264,14 +264,14 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: wide
       author_profile: true
 #_posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: wide
      # classes: wide
       author_profile: true
       read_time: false
