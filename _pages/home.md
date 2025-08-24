@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/IMG_4282-2.jpg
   caption: Photo Credit - Pete Kohler (Yellowstone)
 excerpt: 'You don''t take a photograph, you make it.  - Ansel Adams'
-title: Making Photos
+title: Minimal 
 classes: wide
 ---
 
