@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-hidden: true
+hidden: false
 published: true
 author_profile: true
 header:
