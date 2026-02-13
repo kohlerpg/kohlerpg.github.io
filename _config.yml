@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "A minimal-ish blog site"
 title_separator          : "|"
-subtitle				         : "Minimal Site"
+subtitle				         : " "
 name                     : "Pete Kohler - Minimal"
 description              : "My minimal blog site."
 url                      : "https://kohlerpg.github.io/"
