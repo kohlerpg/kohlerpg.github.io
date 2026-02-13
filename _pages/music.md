@@ -2,7 +2,7 @@
 layout: single
 permalink: /music/
 published: true
-author_profile: true
+author_profile: false
 categories: music
 header:
   overlay_color: '#000'
