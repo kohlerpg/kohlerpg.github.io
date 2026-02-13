@@ -1,6 +1,5 @@
 ---
-layout: splash
-title: 
+layout: splash 
 permalink: /now/
 author_profile: false
 published: true
