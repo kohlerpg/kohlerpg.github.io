@@ -3,6 +3,7 @@ layout: splash
 permalink: /now/
 author_profile: false
 published: true
+exerpt: 'Hi There'
 header:
   overlay_color: '#000'
   overlay_filter: '0.5'
