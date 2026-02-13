@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Minimal-ish Site"
+title                    : "My Minimal-ish Blog Site"
 title_separator          : "-"
 subtitle				         : "Minimal Site"
 name                     : "Pete Kohler - Minimal"
-description              : "A place for posts and learn markdown."
+description              : "My minimal blog site."
 url                      : "https://kohlerpg.github.io/"
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
@@ -34,8 +34,7 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+  facebook: # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -104,7 +103,7 @@ analytics:
 author:
   name             : "Pete Kohler"
   avatar           : "/assets/images/10157504.jpg"
-  bio              : "IT professional blogging about photography, vinyl and travel"
+  bio              : "IT professional blogging about photography, vinyl and travel."
   location         : "Las Vegas, NV"
   email            :
   uri              :

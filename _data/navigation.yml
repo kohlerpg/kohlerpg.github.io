@@ -2,7 +2,7 @@
 main:
   - title: "Music"
     url: music
-  - title: "Photos"
+  - title: "Photography"
     url: photos
-  - title: "About"
-    url: about
+  - title: "Now"
+    url: now
