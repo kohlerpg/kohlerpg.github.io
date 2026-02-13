@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 show_date: true
 author_profile: false
 published: true
