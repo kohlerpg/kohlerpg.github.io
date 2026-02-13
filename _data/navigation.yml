@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Music"
-    url: /music/
+    url: music
   - title: "Photography"
-    url: /photos/
+    url: photos
   - title: "Now"
-    url: /now/
+    url: now
   - title: "Portfolio"
     url: https://pkohler.myportfolio.com/

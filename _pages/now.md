@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Test'
+title: 
 permalink: /now/
 author_profile: false
 published: true
