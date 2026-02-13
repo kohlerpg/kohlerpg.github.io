@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Music"
-    url: music
+    url: /music/
   - title: "Photography"
-    url: photos
+    url: /photos/
   - title: "Now"
     url: /now/
   - title: "Portfolio"
