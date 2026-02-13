@@ -6,5 +6,4 @@ sidebar:
   nav: "lenker"
 ---
 
-
 ## What I'm doing now
