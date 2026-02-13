@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Minimal-ish Blog Site"
-title_separator          : "-"
+title                    : "A Minimal-ish Blog Site"
+title_separator          : "|"
 subtitle				         : "Minimal Site"
 name                     : "Pete Kohler - Minimal"
 description              : "My minimal blog site."
@@ -37,7 +37,7 @@ comments:
   facebook: # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
