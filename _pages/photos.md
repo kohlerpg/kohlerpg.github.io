@@ -2,7 +2,7 @@
 layout: single
 title: Making photos
 permalink: /photos/
-author_profile: true
+author_profile: false
 published: true
 gallery:
   - url: 'https://www.flickr.com/gp/kohlerpg/SG0N8d]'

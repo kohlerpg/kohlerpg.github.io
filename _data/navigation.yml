@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Music"
-    url: music
-  - title: "Photography"
-    url: photos
+  - title: "Home"
+    url: /
   - title: "Now"
     url: now
   - title: "Portfolio"
