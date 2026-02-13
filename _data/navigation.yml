@@ -5,4 +5,6 @@ main:
   - title: "Photography"
     url: photos
   - title: "Now"
-    url: now
+    url: /now/
+  - title: "Portfolio"
+    url: https://pkohler.myportfolio.com/

@@ -1,8 +1,8 @@
 ---
 layout: single
 title: 
-permalink: /about/
-author_profile: true
+permalink: /now/
+author_profile: false
 published: true
 header:
   overlay_color: '#000'
