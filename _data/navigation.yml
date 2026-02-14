@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "Home"
-    url: home
+    url: _pages/home.md
   - title: "Now"
-    url: now
+    url: _pages/now.md
   - title: "Portfolio"
     url: https://pkohler.myportfolio.com/
