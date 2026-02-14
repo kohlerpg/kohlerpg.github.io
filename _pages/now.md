@@ -13,10 +13,10 @@ title: What I'm Doing Now
 ###  Things I'm currently working on
 
 #### Reading 
-<ul>
-  <li>Francis Pryor - Britian BC</li>
-  <li>Anthony Bourdain - No Reservations</li>
-</ul> 
+- Item 1
+- Item 2
+  - Subitem 2.1
+  - Subitem 2.2
 ---
 <p>
 [What's this page](https://nownownow.com/about)
