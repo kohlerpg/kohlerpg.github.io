@@ -2,7 +2,6 @@
 layout: single
 author_profile: false
 permalink: /now/
-classes: wide
 title: What I'm Doing Now
 ---
 
