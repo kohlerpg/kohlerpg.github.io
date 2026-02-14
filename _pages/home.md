@@ -8,7 +8,7 @@ header:
   overlay_color: '#000'
   overlay_filter: '0.5'
   overlay_image: /assets/IMG_4282-2.jpg
-  caption: Photo Credit - Pete Kohler (Yellowstone)
+  caption: Photo Credit - Peter Kohler (Yellowstone)
 title: Minimal 
 classes: wide
 ---

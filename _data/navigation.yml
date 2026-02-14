@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "Home"
-    url: index.html
+    url: index
   - title: "Now"
-    url: /now/
+    url: now
   - title: "Portfolio"
     url: https://pkohler.myportfolio.com/

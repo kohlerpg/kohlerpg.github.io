@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-permalink: /now
+permalink: /now/
 ---
 
 ## What I'm doing now
