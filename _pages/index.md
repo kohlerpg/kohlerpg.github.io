@@ -9,7 +9,7 @@ header:
   overlay_filter: '0.5'
   overlay_image: /assets/IMG_4282-2.jpg
   caption: Photo Credit - Peter Kohler (Yellowstone)
-title: Minimal 
+title:  
 classes: wide
 ---
 
