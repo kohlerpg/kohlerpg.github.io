@@ -19,6 +19,6 @@ title: What I'm Doing Now
 </ul> 
 ---
 <p>
-[What's this page about?](https://nownownow.com/about)
+[What's this page](https://nownownow.com/about)
 </p>
 
