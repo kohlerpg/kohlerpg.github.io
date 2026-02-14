@@ -8,6 +8,15 @@ title: What I'm Doing Now
 
 ##  Things I'm currently working on
 
+### Reading 
+<ul>
+  <li>Francis Pryor - Britian BC</li>
+  <li>Anthony Bourdain - No Reservations/li>
+</ul> 
+
+
+[What's this page about?](https://nownownow.com/about)
+
 {% if page.last_modified_at %}
   <p class="page__date"><strong>{{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %d, %Y" }}</time></p>
 {% elsif page.date %}
