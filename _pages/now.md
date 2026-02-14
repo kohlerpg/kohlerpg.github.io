@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 author_profile: false
 permalink: /now/
 title: What I'm Doing Now
