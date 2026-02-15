@@ -16,12 +16,14 @@ nowPage: true
 
 ### Current Reads (2026)
 
+![Alt text](/assets/books/OIP-1089878227.jpg)
+
  <div class="row">
   <div class="column">
-    <img src="/assets/books/OIP-226714335.jpg" alt="Snow" style="width:100px;heigth:200px">
+    <img src="/assets/books/OIP-226714335.jpg" alt="Britian" style="width:100px;heigth:200px">
   </div>
   <div class="column">
-    <img src="/assets/books/OIP-1089878227.jpg" alt="Forest" style="width:100px;heigth:200px">
+    <img src="/assets/books/OIP-1089878227.jpg" alt="Mars" style="width:100px;heigth:200px">
   </div>
 </div> 
 - Britain BC: Life in Britain and Ireland Before the Romans - Francis Pryor 
