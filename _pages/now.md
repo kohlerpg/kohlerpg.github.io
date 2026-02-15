@@ -19,9 +19,10 @@ nowPage: true
  <div class="row">
   <div class="column">
     <img src="/assets/books/OIP-226714335.jpg" alt="Britian" width="50px" height="100px">
+    <img src="/assets/books/OIP-1089878227.jpg" alt="Mars" width="50px" height="100px">
   </div>
   <div class="column">
-    <img src="/assets/books/OIP-1089878227.jpg" alt="Mars" width="50px" height="100px">
+    
   </div>
 </div> 
 - Britain BC: Life in Britain and Ireland Before the Romans - Francis Pryor 
