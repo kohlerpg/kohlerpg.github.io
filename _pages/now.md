@@ -15,7 +15,7 @@ nowPage: true
 - Making progress in getting all of my CDs scanned into Discogs.  Slowly making headway, might be done soon??
 
 ### Current Reads (2026)
-<img src="/assets/books/OIP-226714335.jpg">
+<img src="/assets/books/OIP-226714335.jpg" width="100" height="200">
 - Britain BC: Life in Britain and Ireland Before the Romans - Francis Pryor 
 - Red Mars (Mars Trilogy) - Kim Stanely Robinson
 
