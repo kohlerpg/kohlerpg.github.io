@@ -18,15 +18,15 @@ nowPage: true
 
  <div class="row">
   <div class="column">
-    <img src="/assets/books/OIP-226714335.jpg" alt="Snow" style="width:100%">
+    <img src="/assets/books/OIP-226714335.jpg" alt="Snow" style="width:100%" width="100" height="200">
   </div>
   <div class="column">
-    <img src="/assets/books/OIP-1089878227.jpg" alt="Forest" style="width:100%">
+    <img src="/assets/books/OIP-1089878227.jpg" alt="Forest" style="width:100%" width="100" height="200">
   </div>
 </div> 
 - Britain BC: Life in Britain and Ireland Before the Romans - Francis Pryor 
 - Red Mars (Mars Trilogy) - Kim Stanely Robinson
 
 ---
-<h6>Inspired page inspired by <a href="https://nownownow.com/about">NowNowNow</a></h6>
+<h6>This page inspired by <a href="https://nownownow.com/about">NowNowNow</a></h6>
 
