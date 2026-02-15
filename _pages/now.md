@@ -4,7 +4,10 @@ classes: wide
 author_profile: false
 permalink: /now/
 title: What I'm Doing Now
+nowPage: true
 ---
+{{ site.categories.now[0].content }}
+
 {% if page.last_modified_at %}
   <p class="page__date"><strong>{{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: "%B %d, %Y" }}</time></p>
 {% elsif page.date %}
