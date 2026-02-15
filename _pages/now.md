@@ -1,5 +1,6 @@
 ---
-layout: splash
+layout: single
+classes: wide
 author_profile: false
 permalink: /now/
 title: What I'm Doing Now
@@ -12,7 +13,7 @@ title: What I'm Doing Now
 
 ###  Things I'm currently working on
 
-#### Reading 
+### Reading 
 - Item 1
 - Item 2
   - Subitem 2.1
