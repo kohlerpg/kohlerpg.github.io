@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-author_profile: false
+author_profile: true
 permalink: /now/
 title: What I'm Doing Now
 nowPage: true
