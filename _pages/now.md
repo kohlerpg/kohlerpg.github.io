@@ -6,16 +6,15 @@ permalink: /now/
 title: What I'm Doing Now
 nowPage: true
 ---
-
-
-###  Things I'm currently working on
-
+<p>So what have I been up to lately?  Here's a lists of things that I'm working on and things I am beginning to look into. Why? [Here](https://nownownow.com/about) you will find a good explanation of Now pages. </p>
+### Music
+<p> Been on a Bryan Ferry binge lately. Recently purhased <i>Let's Stick together</i> and <i>In your mind</i> </p>
 ### Reading 
-- Item 1
-- Item 2
+- Britain BC: Life in Britain and Ireland Before the Romans - Francis Pryor 
+- Red Mars (Mars Trilogy) - Kim Stanely Robinson
 
 ---
 <p>
-[What's this page](https://nownownow.com/about)
+<strong>Last Updated:</strong> 02/14/2026
 </p>
 
