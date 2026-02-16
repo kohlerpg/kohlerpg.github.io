@@ -7,7 +7,7 @@ title: What I'm Doing Now
 header:
   overlay_color: '#000'
   overlay_filter: '0.5'
-  overlay_image: /assets/aaron-burden-CKlHKtCJZKk-unsplash,jpg
+  overlay_image: /assets/aaron-burden-CKlHKtCJZKk-unsplash.jpg
   caption: 'Photo by Aaron Burden on <a href="https://unsplash.com/photos/pen-on-white-lined-paper-selective-focus-photography-CKlHKtCJZKk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
 nowPage: true
 ---
