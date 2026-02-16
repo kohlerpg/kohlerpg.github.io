@@ -34,5 +34,5 @@ nowPage: true
 - Red Mars (Mars Trilogy) - Kim Stanely Robinson
 
 ---
-<h6>This page inspired by <a href="https://nownownow.com/about">NowNowNow</a></h6>
+<p style="font-size:1.2em;">This page inspired by Derek Siver’s  <a href="https://nownownow.com/about">Now</a> page.</p>
 
