@@ -1,0 +1,19 @@
+current directory: C:/Users/pk1de/github/kohlerpg.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+C:/Ruby40-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/pk1de/github/kohlerpg.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260215-2556-s5bfr7 sitelibdir\=./.gem.20260215-2556-s5bfr7 clean
+
+current directory: C:/Users/pk1de/github/kohlerpg.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260215-2556-s5bfr7 sitelibdir\=./.gem.20260215-2556-s5bfr7
+generating cparse-x64-mingw-ucrt.def
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: C:/Users/pk1de/github/kohlerpg.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make -j9 DESTDIR\= sitearchdir\=./.gem.20260215-2556-s5bfr7 sitelibdir\=./.gem.20260215-2556-s5bfr7 install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20260215-2556-s5bfr7/racc
+
+current directory: C:/Users/pk1de/github/kohlerpg.github.io/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260215-2556-s5bfr7 sitelibdir\=./.gem.20260215-2556-s5bfr7 clean
