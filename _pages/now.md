@@ -11,7 +11,7 @@ header:
   caption: 'Photo by Aaron Burden on <a href="https://unsplash.com/photos/pen-on-white-lined-paper-selective-focus-photography-CKlHKtCJZKk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
 nowPage: true
 ---
-<p>So what have I been up to lately?  Here's a lists of things that I'm working on and what I'm listening to and watching.  Of course I'm continously working on this site.Why a Now page? <a href="https://nownownow.com/about">Here</a> you will find a good explanation of Now pages.</p>
+<p>What have I been up to lately?  Here's a lists of things that I'm working on and what I'm listening to and watching.  Of course I'm continously working on this site. Why a Now page? <a href="https://nownownow.com/about">Here</a> you will find a good explanation of Now pages.</p>
 
 <strong>Last Update:</strong> 02/14/2026
 ### Music 
