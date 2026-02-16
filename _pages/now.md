@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 permalink: /now/
 title: What I'm Doing Now
-eader:
+header:
   overlay_color: '#000'
   overlay_filter: '0.5'
   overlay_image: ../assets/aaron-burden-CKlHKtCJZKk-unsplash,jpg
