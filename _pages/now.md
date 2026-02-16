@@ -20,7 +20,7 @@ nowPage: true
 - Making progress in getting all of my CDs scanned into Discogs.  Slowly making headway, might be done soon??
 
 ### Watching 
-<p>Have been binge watching <a href="https://www.imdb.com/title/tt1830617/">Grimm</a> Currently up to Season 5.  </p>
+<p>Have been binge watching <a href="https://www.imdb.com/title/tt1830617/">Grimm</a>. Currently up to Season 5.  </p>
 
 ### Current Reads 
 
