@@ -15,14 +15,14 @@ nowPage: true
 <p>Why a Now page? <a href="https://nownownow.com/about">Here</a> you will find a good explanation of Now pages.</p>
 <p style="font-size:0.8em;"> <strong>Last Update:</strong> 02/15/2026 </p>
 ---
-### Music 
+## Music 
 - Been on a Bryan Ferry kick lately. Recently purchased <i>Let's Stick together</i> and <i>In your mind</i>.  Both excellent, but have been listening to the latter the most. 
 - Making progress in getting all of my CDs scanned into Discogs.  Slowly making headway, might be done soon??
 
-### Watching 
+## Watching 
 <p>Have been binge watching <a href="https://www.imdb.com/title/tt1830617/">Grimm</a>. Currently up to Season 5.  </p>
 
-### Current Reads 
+## Current Reads 
 
 <div class="row">
   <div class="column">
