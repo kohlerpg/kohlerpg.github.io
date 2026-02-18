@@ -12,11 +12,12 @@ header:
 nowPage: true
 ---
 <p>What have I been up to lately?  Here's a lists of things that I'm working on, what I'm listening to and what I'm watching.  Of course I'm continously working on this site.</p>
-<p>Working on transferring my photo portfolio to Adobe Portfolio.  After years of SmugMug I decided to make the switch. </p>
+<p>Working on transferring my photo portfolio to Adobe Portfolio.  After years of SmugMug I decided to make the switch and stop paying for both. </p>
 
 ## Music 
 - Been on a Bryan Ferry kick lately. Recently purchased <i>Let's Stick together</i> and <i>In your mind</i>.  Both excellent, but have been listening to the latter the most. 
 - Making progress in getting all of my CDs scanned into Discogs.  Slowly making headway, might be done soon??
+- Working on modifications to my MusicBee instance.  Tweeking the Eleventy theme.
 
 ## Watching 
 <p>Have been binge watching <a href="https://www.imdb.com/title/tt1830617/">Grimm</a>. Currently up to Season 5.  </p>
