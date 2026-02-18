@@ -15,6 +15,7 @@ nowPage: true
 ## Photography
 - Working on transferring my photo portfolio to Adobe Portfolio.  After years of SmugMug I decided to make the switch and stop paying for both.
 - Planning the move of my Lightroom library to my Synology NAS.
+
 ## Music
 - Been on a Bryan Ferry kick lately. Recently purchased <i>Let's Stick together</i> and <i>In your mind</i>.  Both excellent, but have been listening to the latter the most.
 - Making progress in getting all of my CDs scanned into Discogs.  Slowly making headway, might be done soon??
