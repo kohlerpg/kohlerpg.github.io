@@ -12,17 +12,19 @@ header:
 nowPage: true
 ---
 <p>What have I been up to lately?  Here's a lists of things that I'm working on, what I'm listening to and what I'm watching.  Of course I'm continously working on this site. </p>
-<p style="font-size:0.8em;"> <strong>Last Update:</strong> 02/15/2026 </p>
----
+
+
 ## Music 
+---
 - Been on a Bryan Ferry kick lately. Recently purchased <i>Let's Stick together</i> and <i>In your mind</i>.  Both excellent, but have been listening to the latter the most. 
 - Making progress in getting all of my CDs scanned into Discogs.  Slowly making headway, might be done soon??
 
 ## Watching 
+---
 <p>Have been binge watching <a href="https://www.imdb.com/title/tt1830617/">Grimm</a>. Currently up to Season 5.  </p>
 
 ## Current Reads 
-
+---
 <div class="row">
   <div class="column">
     <img src="/assets/books/OIP-226714335.jpg" alt="Britian" width="50px" height="100px">
@@ -33,5 +35,6 @@ nowPage: true
 - Red Mars (Mars Trilogy) - Kim Stanely Robinson
 
 ---
-<p style="font-size:.8em;">This page inspired by Derek Siver’s  <a href="https://nownownow.com/about">Now</a> page.  Last Updated: 2/17/2026</p>
+<p style="font-size:.8em; text-align:center">This page inspired by Derek Siver’s  <a href="https://nownownow.com/about">Now</a> page.  </p>
+<p style="font-size:.8em; text-align:center">Last Updated: 2/17/2026</p>
 
