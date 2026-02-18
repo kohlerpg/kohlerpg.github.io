@@ -12,7 +12,6 @@ header:
 nowPage: true
 ---
 <p>What have I been up to lately?  Here's a lists of things that I'm working on, what I'm listening to and what I'm watching.  Of course I'm continously working on this site. </p>
-<p>Why a Now page? <a href="https://nownownow.com/about">Here</a> you will find a good explanation of Now pages.</p>
 <p style="font-size:0.8em;"> <strong>Last Update:</strong> 02/15/2026 </p>
 ---
 ## Music 
@@ -34,5 +33,5 @@ nowPage: true
 - Red Mars (Mars Trilogy) - Kim Stanely Robinson
 
 ---
-<p style="font-size:.8em;">This page inspired by Derek Siver’s  <a href="https://nownownow.com/about">Now</a> page.</p>
+<p style="font-size:.8em;">This page inspired by Derek Siver’s  <a href="https://nownownow.com/about">Now</a> page.  Last Updated: 2/17/2026</p>
 
