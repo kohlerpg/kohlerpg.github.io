@@ -13,8 +13,8 @@ nowPage: true
 ---
 <p>What have I been up to lately?  Here's a lists of things that I'm working on, what I'm listening to and what I'm watching.  Of course I'm continously working on this site.</p>
 ##Photography
-<p>Working on transferring my photo portfolio to Adobe Portfolio.  After years of SmugMug I decided to make the switch and stop paying for both. </p>
-<p>Moving Lightroom library to my Synology NAS.</p>
+-Working on transferring my photo portfolio to Adobe Portfolio.  After years of SmugMug I decided to make the switch and stop paying for both. 
+<-Moving Lightroom l ibrary to my Synology NAS.
 ## Music 
 - Been on a Bryan Ferry kick lately. Recently purchased <i>Let's Stick together</i> and <i>In your mind</i>.  Both excellent, but have been listening to the latter the most. 
 - Making progress in getting all of my CDs scanned into Discogs.  Slowly making headway, might be done soon??
