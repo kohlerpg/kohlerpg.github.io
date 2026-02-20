@@ -8,3 +8,4 @@ gem 'bigdecimal'
 gem "logger"
 
 gem "webrick", "~> 1.9"
+gem 'tzinfo-data', platforms: [:windows]
