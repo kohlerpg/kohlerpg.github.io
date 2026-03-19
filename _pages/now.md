@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: single
 classes: wide
 author_profile: true
 permalink: /now/
