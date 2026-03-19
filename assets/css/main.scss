@@ -12,14 +12,14 @@ html {
   }
 
   @include breakpoint($medium) {
-    font-size: 10px; // change to whatever 14
+    font-size: 10px; // change to whatever 14 10
   }
 
   @include breakpoint($large) {
-    font-size: 16px; // change to whatever 20
+    font-size: 10px; // change to whatever 20
   }
 
   @include breakpoint($x-large) {
-    font-size: 18px; // change to whatever 22
+    font-size: 10px; // change to whatever 22
   }
 }
