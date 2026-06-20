@@ -19,9 +19,9 @@ What have I been up to lately?  Here's a lists of things that I'm working on, wh
 
 ## Music
 - Been listening to some of my recent purchases from records store day. Not sure why it takes me so long to actually listen to them. Here's what I have been listening to
-  - <a href="https://www.discogs.com/release/37105422-My-Life-With-The-Thrill-Kill-Kult-Sinister-Whisperz-The-Wax-Trax-Remixes">My Life With The Thrill Kill Kult – Sinister Whisperz The Wax Trax! Remixes</a>
-  -<a href="https://www.discogs.com/release/37106571-Jurassic-5-Quality-Control">Quality Control - Jurrasic 5</a>
-  -<a href="https://www.discogs.com/release/37097178-Various-Panama-Latin-Treasures-">Panama Latin Treasures - Various</a>
+  - <a href="https://www.discogs.com/release/37105422-My-Life-With-The-Thrill-Kill-Kult-Sinister-Whisperz-The-Wax-Trax-Remixes">My Life With The Thrill Kill Kult Sinister Whisperz The Wax Trax! Remixes</a>
+  -<a href="https://www.discogs.com/release/37106571-Jurassic-5-Quality-Control">Quality Control Jurrasic 5</a>
+  -<a href="https://www.discogs.com/release/37097178-Various-Panama-Latin-Treasures-">Panama Latin Treasures Various Artists</a>
 
 ## Watching
 <p>Just finished watching all seasons of  <a href="https://www.imdb.com/title/tt1830617/">Grimm</a>. Have started watching <a href="https://www.imdb.com/title/tt0187636/"> Farscape</a>.  </p>
