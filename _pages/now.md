@@ -13,8 +13,9 @@ nowPage: true
 ---
 <p>What have I been up to lately?  Here's a lists of things that I'm working on, what I'm listening to and what I'm watching.  Of course I'm continously working on this site.</p>
 ## Photography
-- Working on transferring my photo portfolio to Adobe Portfolio.  After years of SmugMug I decided to make the switch and stop paying for both.
-- Planning the move of my Lightroom library to my Synology NAS.
+- Working on tweaking  by Adobe Portfolio site.
+- Moving my LightRoom library to my NAS.
+- Been doing some birding lately, have been getting some great shots of Vermillion Flycatchers.
 
 ## Music
 - Been on a Bryan Ferry kick lately. Recently purchased <i>Let's Stick together</i> and <i>In your mind</i>.  Both excellent, but have been listening to the latter the most.
@@ -22,9 +23,10 @@ nowPage: true
 - Working on the look and feel of my MusicBee instance.  Tweeking the Eleventy theme.
 
 ## Watching 
-<p>Have been binge watching <a href="https://www.imdb.com/title/tt1830617/">Grimm</a>. Currently up to Season 5.  </p>
+<p>Just finished watching all seasons of  <a href="https://www.imdb.com/title/tt1830617/">Grimm</a>. Now watching <a href="https://www.imdb.com/title/tt0187636/">Farscape</a>.  </p>
 
 ## Current Reads 
+Have been preoccupied with other things, hoping to getback to these two ... 
 <div class="row">
   <div class="column">
     <img src="/assets/books/OIP-226714335.jpg" alt="Britian" width="50px" height="100px">
