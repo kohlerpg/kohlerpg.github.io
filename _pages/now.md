@@ -30,17 +30,18 @@ What have I been up to lately?  Here's a lists of things that I'm working on, wh
 
 Just finished watching all seasons of [Grimm] (<https://www.imdb.com/title/tt1830617/>). Recently started watching [FarScape] (<https://www.imdb.com/title/tt0187636/>).
 
-## Current Reads 
+## Current Reads
+
 Have been preoccupied with other things, hoping to getback to these two...
 <div class="row">
   <div class="column">
     <img src="/assets/books/OIP-226714335.jpg" alt="Britian" width="50px" height="100px">
     <img src="/assets/books/OIP-1089878227.jpg" alt="Mars" width="50px" height="100px">
   </div>
-</div> 
-- Britain BC: Life in Britain and Ireland Before the Romans - Francis Pryor 
+</div>
+- Britain BC: Life in Britain and Ireland Before the Romans - Francis Pryor
 - Red Mars (Mars Trilogy) - Kim Stanely Robinson
 
 ---
-<p style="font-size:.8em; text-align:center">This page inspired by Derek Siver’s  <a href="https://nownownow.com/about">Now</a> page.<br>Last Updated: 2/17/2026</p>
-
+<p style="font-size:.8em; text-align:center">This page inspired by Derek Siver’s [Now] (<https://nownownow.com/about>) page.</p>
+<p style="font-size:.8em; text-align:center"> Page Last Updated: 6/17/2026</p>
