@@ -15,7 +15,7 @@ What have I been up to lately?  Here's a lists of things that I'm working on, wh
 
 ## Photography
 
-- Working on tweaking  by Adobe Portfolio site.
+- Working on tweaking my Adobe Portfolio site.
 - Moving my LightRoom library to my NAS.
 - Been doing some birding lately, have been getting some great shots of Vermillion Flycatchers and hawks on our trips to Tucson.
 
