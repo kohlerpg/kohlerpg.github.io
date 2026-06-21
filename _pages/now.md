@@ -28,7 +28,7 @@ What have I been up to lately?  Here's a lists of things that I'm working on, wh
 
 ## Watching
 
-Just finished watching all seasons of [Grimm](<https://www.imdb.com/title/tt1830617/>). Recently started watching [FarScape](<https://www.imdb.com/title/tt0187636/>).
+Just finished watching all seasons of [Grimm](<https://www.imdb.com/title/tt1830617/>). Now I have started [FarScape](<https://www.imdb.com/title/tt0187636/>).
 
 ## Current Reads
 
