@@ -22,7 +22,7 @@ What have I been up to lately?  Here's a lists of things that I'm working on, wh
 ## Music
 
 - Been listening to some of my recent purchases from records store day. Not sure why it takes me so long to actually listen to them. Here's what I have been listening to
-  - My Life With The Thrill Kill Kult Sinister [Whisperz The Wax Trax! Remixes](<https://www.discogs.com/release/37105422-My-Life-With-The-Thrill-Kill-Kult-Sinister-Whisperz-The-Wax-Trax-Remixes>)
+  - My Life With The Thrill Kill Kult [Sinister Whisperz The Wax Trax! Remixes](<https://www.discogs.com/release/37105422-My-Life-With-The-Thrill-Kill-Kult-Sinister-Whisperz-The-Wax-Trax-Remixes>)
   - Jurrasic 5 [Quality Control](<https://www.discogs.com/release/37106571-Jurassic-5-Quality-Control>)
   - Various Artists [Panama Latin Treasures](<https://www.discogs.com/release/37097178-Various-Panama-Latin-Treasures>)
 
