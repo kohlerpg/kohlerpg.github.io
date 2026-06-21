@@ -43,5 +43,5 @@ Have been preoccupied with other things, hoping to getback to these two...
 - Red Mars (Mars Trilogy) - Kim Stanely Robinson
 
 ---
-<p style="font-size:.8em; text-align:center">This page inspired by Derek Siver’s [Now] (<https://nownownow.com/about>) page.</p>
+<p style="font-size:.8em; text-align:center">This page inspired by Derek Siver’s <a href="https://nownownow.com/about">Now</a> page.</p>
 <p style="font-size:.8em; text-align:center"> Page Last Updated: 6/17/2026</p>
