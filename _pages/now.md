@@ -11,7 +11,7 @@ header:
   caption: 'Photo by Aaron Burden on <a href="https://unsplash.com/photos/pen-on-white-lined-paper-selective-focus-photography-CKlHKtCJZKk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
 nowPage: true
 ---
-What have I been up to lately?  Here's a lists of things that I'm working on, what I'm listening to and what I'm watching.  Of course I'm continously working on this site.
+What have I been up to lately?  Here's a lists of what I'm currenty working on, what I'm listening to and what I'm watching.  Of course I'm continously working on this site.
 
 ## Photography
 
@@ -28,7 +28,7 @@ What have I been up to lately?  Here's a lists of things that I'm working on, wh
 
 ## Watching
 
-Just finished watching all seasons of [Grimm](<https://www.imdb.com/title/tt1830617/>). Now I have started [FarScape](<https://www.imdb.com/title/tt0187636/>).
+I recently finished watching [Grimm](<https://www.imdb.com/title/tt1830617/>) (all seasons). Now I'm onto [FarScape](<https://www.imdb.com/title/tt0187636/>).
 
 ## Current Reads
 
