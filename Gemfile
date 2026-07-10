@@ -6,6 +6,7 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 gem "csv"
 gem 'bigdecimal'
 gem "logger"
+gem "jekyll-remote-theme"
 
 gem "webrick", "~> 1.9"
 gem 'tzinfo-data', platforms: [:windows]
